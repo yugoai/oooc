@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[高中生侦探工藤新一与毛利兰在游乐园游玩时发现两个行动诡异的黑衣男子，便跟踪他们，不料被灌下一种叫「APTX4869」的神秘毒药，然而因为药物副作用，新一的身体竟回到孩童状态。为不使周围的人受到牵连，他化名为「江户川柯南」，寄住在毛利兰家中，用阿笠博士发明的手表型麻醉枪让毛利小五郎睡着，接着用蝴蝶结变声器模仿他的声音来进行推理，解决了许多案件，并一直寻找着黑衣组织的人的下落，希望有朝一日将其绳之以法，并变回原来的样子。]]></plot>
+  <outline><![CDATA[高中生侦探工藤新一与毛利兰在游乐园游玩时发现两个行动诡异的黑衣男子，便跟踪他们，不料被灌下一种叫「APTX4869」的神秘毒药，然而因为药物副作用，新一的身体竟回到孩童状态。为不使周围的人受到牵连，他化名为「江户川柯南」，寄住在毛利兰家中，用阿笠博士发明的手表型麻醉枪让毛利小五郎睡着，接着用蝴蝶结变声器模仿他的声音来进行推理，解决了许多案件，并一直寻找着黑衣组织的人的下落，希望有朝一日将其绳之以法，并变回原来的样子。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-04-11 10:09:34</dateadded>
+  <title>名侦探柯南</title>
+  <originaltitle>名探偵コナン</originaltitle>
+  <actor>
+    <name>Minami Takayama</name>
+    <role>Conan Edogawa (voice)</role>
+    <type>Actor</type>
+    <tmdbid>68470</tmdbid>
+  </actor>
+  <actor>
+    <name>Kappei Yamaguchi</name>
+    <role>Shinichi Kudo (voice)</role>
+    <type>Actor</type>
+    <tmdbid>68472</tmdbid>
+  </actor>
+  <actor>
+    <name>Wakana Yamazaki</name>
+    <role>Ran Mori (voice)</role>
+    <type>Actor</type>
+    <tmdbid>87582</tmdbid>
+  </actor>
+  <actor>
+    <name>Akira Kamiya</name>
+    <role>Kogoro Mori (voice)</role>
+    <type>Actor</type>
+    <tmdbid>54690</tmdbid>
+  </actor>
+  <actor>
+    <name>Rikiya Koyama</name>
+    <role>Kogoro Mori (voice)</role>
+    <type>Actor</type>
+    <tmdbid>237076</tmdbid>
+  </actor>
+  <actor>
+    <name>Megumi Hayashibara</name>
+    <role>Ai Haibara (voice)</role>
+    <type>Actor</type>
+    <tmdbid>40325</tmdbid>
+  </actor>
+  <actor>
+    <name>Kenichi Ogata</name>
+    <role>Hiroshi Agasa (voice)</role>
+    <type>Actor</type>
+    <tmdbid>142704</tmdbid>
+  </actor>
+  <actor>
+    <name>Ikue Otani</name>
+    <role>Mitsuhiko Tsuburaya (voice)</role>
+    <type>Actor</type>
+    <tmdbid>73044</tmdbid>
+  </actor>
+  <actor>
+    <name>Chafurin</name>
+    <role>Juzo Megure (voice)</role>
+    <type>Actor</type>
+    <tmdbid>87583</tmdbid>
+  </actor>
+  <actor>
+    <name>Wataru Takagi</name>
+    <role>Genta Kojima (voice)</role>
+    <type>Actor</type>
+    <tmdbid>112278</tmdbid>
+    <imdbid>nm0847085</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/1251.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Chisato Takagi - 高木千里","Cover":"https://raw.githubusercontent.com/xinxin8816/gfriends/master/Content/6-Warashi/AI-Fix-高木千里.jpg","Url":"https://xslist.org/zh/model/1251.html","ImageType":"Backdrop","Samples":["https://xslist.org/kojav/model2/1000/1251.jpg","https://m1.xslist.org/gallery/1000/1251/1581414674.jpg","https://m1.xslist.org/gallery/1000/1251/1581412041.jpg","https://m1.xslist.org/gallery/1000/1251/1574906208.jpg","https://m1.xslist.org/gallery/1000/1251/1574904683.jpg"]}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/1251.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Yukiko Iwai</name>
+    <role>Ayumi Yoshida (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1244457</tmdbid>
+  </actor>
+  <trailer>http://www.youtube.com/watch?v=1Mz9orl7bDw</trailer>
+  <rating>8.4</rating>
+  <year>1996</year>
+  <mpaa>TV-14</mpaa>
+  <imdb_id>tt0131179</imdb_id>
+  <tmdbid>30983</tmdbid>
+  <premiered>1996-01-08</premiered>
+  <releasedate>1996-01-08</releasedate>
+  <runtime>25</runtime>
+  <genre>动画</genre>
+  <genre>喜剧</genre>
+  <genre>悬疑</genre>
+  <studio>YTV</studio>
+  <uniqueid type="Tmdb">30983</uniqueid>
+  <uniqueid type="Imdb">tt0131179</uniqueid>
+  <uniqueid type="Tvdb">72454</uniqueid>
+  <tvdbid>72454</tvdbid>
+  <id>72454</id>
+  <episodeguide>
+    <url cache="72454.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/72454/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Continuing</status>
+</tvshow>
