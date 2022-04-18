@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[在梦想似乎遥不可及的时代，志向远大的击剑少女遇见了勤勉的年轻男子，后者正试图重塑自己的人生。]]></plot>
+  <outline><![CDATA[在梦想似乎遥不可及的时代，志向远大的击剑少女遇见了勤勉的年轻男子，后者正试图重塑自己的人生。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-04-09 11:47:56</dateadded>
+  <title>二十五，二十一</title>
+  <originaltitle>스물다섯 스물하나</originaltitle>
+  <actor>
+    <name>Kim Tae-ri</name>
+    <role>Na Hee-do</role>
+    <type>Actor</type>
+    <tmdbid>1537768</tmdbid>
+  </actor>
+  <actor>
+    <name>Nam Joo-hyuk</name>
+    <role>Baek Yi-jin</role>
+    <type>Actor</type>
+    <tmdbid>1459772</tmdbid>
+  </actor>
+  <actor>
+    <name>Bona</name>
+    <role>Ko Yu-rim</role>
+    <type>Actor</type>
+    <tmdbid>1881078</tmdbid>
+  </actor>
+  <actor>
+    <name>Choi Hyun-wook</name>
+    <role>Moon Ji-woong</role>
+    <type>Actor</type>
+    <tmdbid>3126573</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Joo-myung</name>
+    <role>Ji Seung-wan</role>
+    <type>Actor</type>
+    <tmdbid>3155118</tmdbid>
+  </actor>
+  <actor>
+    <name>Moon Woo-Bin</name>
+    <role>Kang Ji Soo</role>
+    <type>Actor</type>
+    <tmdbid>3480736</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Hye-eun</name>
+    <role>Yang Chan-Mi</role>
+    <type>Actor</type>
+    <tmdbid>1299278</tmdbid>
+  </actor>
+  <actor>
+    <name>Choi Myeong-bin</name>
+    <role>Kim Min-Chae</role>
+    <type>Actor</type>
+    <tmdbid>2275609</tmdbid>
+  </actor>
+  <actor>
+    <name>Joo Bo-young</name>
+    <role>Lee Ye-Ji</role>
+    <type>Actor</type>
+    <tmdbid>2067069</tmdbid>
+  </actor>
+  <actor>
+    <name>Bang Eun-jung</name>
+    <role>Lee Da-Seul</role>
+    <type>Actor</type>
+    <tmdbid>2452392</tmdbid>
+  </actor>
+  <actor>
+    <name>Choi Min-yeong</name>
+    <role>Baek Yi-hyun</role>
+    <type>Actor</type>
+    <tmdbid>3495015</tmdbid>
+  </actor>
+  <trailer>http://www.youtube.com/watch?v=gYp4cKumTwU</trailer>
+  <rating>9.1</rating>
+  <year>2022</year>
+  <mpaa>TV-14</mpaa>
+  <imdb_id>tt17513352</imdb_id>
+  <tmdbid>129888</tmdbid>
+  <premiered>2022-02-12</premiered>
+  <releasedate>2022-02-12</releasedate>
+  <enddate>2022-04-03</enddate>
+  <runtime>70</runtime>
+  <genre>剧情</genre>
+  <studio>tvN</studio>
+  <uniqueid type="Tmdb">129888</uniqueid>
+  <uniqueid type="Imdb">tt17513352</uniqueid>
+  <uniqueid type="Tvdb">403656</uniqueid>
+  <tvdbid>403656</tvdbid>
+  <id>403656</id>
+  <episodeguide>
+    <url cache="403656.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/403656/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Ended</status>
+</tvshow>
