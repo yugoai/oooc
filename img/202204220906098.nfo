@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[邪恶的格格巫突然闯进精灵村庄，受惊的蓝精灵慌失失走避，误闯神秘石洞，在奇异的蓝月亮照耀下竟然穿越结界来到纽约中央公园！一众蓝精灵人生路不熟，只好寄居在一对年轻夫妇家中，他们开朗活泼反应快，搞到屋主晕头转向又无计可施；精灵们首要的任务就是避开格格巫的追捕返回精灵村庄。到底蓝爸爸同蓝妹妹、笨笨、聪聪、厌厌以及勇勇（新角色）能否顺利返家乡呢？]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-04-19 15:19:56</dateadded>
+  <title>蓝精灵</title>
+  <originaltitle>The Smurfs</originaltitle>
+  <actor>
+    <name>Hank Azaria</name>
+    <role>Gargamel</role>
+    <type>Actor</type>
+    <tmdbid>5587</tmdbid>
+  </actor>
+  <actor>
+    <name>Neil Patrick Harris</name>
+    <role>Patrick Winslow</role>
+    <type>Actor</type>
+    <tmdbid>41686</tmdbid>
+  </actor>
+  <actor>
+    <name>Jayma Mays</name>
+    <role>Grace Winslow</role>
+    <type>Actor</type>
+    <tmdbid>34195</tmdbid>
+  </actor>
+  <actor>
+    <name>Sofía Vergara</name>
+    <role>Odile Anjelou</role>
+    <type>Actor</type>
+    <tmdbid>63522</tmdbid>
+  </actor>
+  <actor>
+    <name>Tim Gunn</name>
+    <role>Henri</role>
+    <type>Actor</type>
+    <tmdbid>1218645</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Winters</name>
+    <role>Papa Smurf (voice)</role>
+    <type>Actor</type>
+    <tmdbid>13593</tmdbid>
+  </actor>
+  <actor>
+    <name>Katy Perry</name>
+    <role>Smurfette (voice)</role>
+    <type>Actor</type>
+    <tmdbid>111455</tmdbid>
+  </actor>
+  <actor>
+    <name>Anton Yelchin</name>
+    <role>Clumsy Smurf (voice)</role>
+    <type>Actor</type>
+    <tmdbid>21028</tmdbid>
+  </actor>
+  <actor>
+    <name>Madison McKinley</name>
+    <role>Model</role>
+    <type>Actor</type>
+    <tmdbid>208659</tmdbid>
+  </actor>
+  <actor>
+    <name>Meg Phillips</name>
+    <role>Model</role>
+    <type>Actor</type>
+    <tmdbid>1845110</tmdbid>
+  </actor>
+  <actor>
+    <name>Mahadeo Shivraj</name>
+    <role>Cabbie</role>
+    <type>Actor</type>
+    <tmdbid>1828997</tmdbid>
+  </actor>
+  <actor>
+    <name>Frank Welker</name>
+    <role>Azrael (voice)</role>
+    <type>Actor</type>
+    <tmdbid>15831</tmdbid>
+  </actor>
+  <actor>
+    <name>Julie Chang</name>
+    <role>Newscaster</role>
+    <type>Actor</type>
+    <tmdbid>2264143</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Doherty</name>
+    <role>Bluetooth Businessman</role>
+    <type>Actor</type>
+    <tmdbid>1634923</tmdbid>
+  </actor>
+  <actor>
+    <name>Minglie Chen</name>
+    <role>Young Woman</role>
+    <type>Actor</type>
+    <tmdbid>61706</tmdbid>
+  </actor>
+  <actor>
+    <name>Ezra Swerdlow</name>
+    <role>Executive Producer</role>
+    <type>Producer</type>
+  </actor>
+  <actor>
+    <name>Jordan Kerner</name>
+    <role>Producer</role>
+    <type>Producer</type>
+  </actor>
+  <actor>
+    <name>Paul Neesan</name>
+    <role>Executive Producer</role>
+    <type>Producer</type>
+  </actor>
+  <actor>
+    <name>Ben Haber</name>
+    <role>Executive Producer</role>
+    <type>Producer</type>
+  </actor>
+  <actor>
+    <name>Véronique Culliford</name>
+    <role>Co-Producer</role>
+    <type>Producer</type>
+  </actor>
+  <actor>
+    <name>Hendrik Coysman</name>
+    <role>Co-Producer</role>
+    <type>Producer</type>
+  </actor>
+  <director tmdbid="1215" imdbid="nm0331532">Raja Gosnell</director>
+  <writer>J. David Stem</writer>
+  <writer>David N. Weiss</writer>
+  <writer>David Ronn</writer>
+  <writer>Jay Scherick</writer>
+  <writer>Peyo</writer>
+  <credits>J. David Stem</credits>
+  <credits>David N. Weiss</credits>
+  <credits>David Ronn</credits>
+  <credits>Jay Scherick</credits>
+  <credits>Peyo</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=yhBpgqXwrt8</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vc0dljW2ZaU</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JLMoubBxt_0</trailer>
+  <rating>5.4</rating>
+  <year>2011</year>
+  <mpaa>PG</mpaa>
+  <imdbid>tt0472181</imdbid>
+  <tmdbid>41513</tmdbid>
+  <premiered>2011-07-29</premiered>
+  <releasedate>2011-07-29</releasedate>
+  <criticrating>21</criticrating>
+  <runtime>103</runtime>
+  <country>United States of America</country>
+  <genre>动画</genre>
+  <genre>家庭</genre>
+  <genre>冒险</genre>
+  <genre>喜剧</genre>
+  <genre>奇幻</genre>
+  <studio>Sony Pictures Animation</studio>
+  <studio>Kerner Entertainment Company</studio>
+  <studio>Columbia Pictures</studio>
+  <studio>Sony Pictures</studio>
+  <tag>moon</tag>
+  <tag>magic</tag>
+  <tag>based on comic</tag>
+  <tag>blue</tag>
+  <tag>vortex</tag>
+  <tag>cat and mouse</tag>
+  <tag>duringcreditsstinger</tag>
+  <tag>live action and animation</tag>
+  <set tmdbcolid="134897">
+    <name>蓝精灵（系列）</name>
+  </set>
+  <uniqueid type="Imdb">tt0472181</uniqueid>
+  <uniqueid type="Tmdb">41513</uniqueid>
+  <id>tt0472181</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>5571968</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>102</duration>
+        <durationinseconds>6163</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <collectionnumber>134897</collectionnumber>
+</movie>
